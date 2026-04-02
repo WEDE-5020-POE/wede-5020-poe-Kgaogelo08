@@ -2,8 +2,8 @@
 Your project's title
 
 ## Student Information
-**Student number:** Your student number <br>
-**Student Name:** Your full name
+**Student number:** ST10482662 <br>
+**Student Name:** Kgaogelo More
 
 ## Project Overview
 
