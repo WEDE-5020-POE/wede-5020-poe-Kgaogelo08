@@ -19,8 +19,10 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-![Website Sitemap](img/mysitemap.png) <br> (The one here is only an example, include your own site map)
+<img width="1042" height="491" alt="My sitemap drawio" src="https://github.com/user-attachments/assets/7a05b9bf-88e8-45e5-be17-978778e348a6" />
 
 ## References
 
-Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+draw.io (2025). Flowchart Maker & Online Diagram Software. [online] app.diagrams.net. Available at: https://app.diagrams.net/. Accessed[April 2026]
+
+‌
