@@ -1,5 +1,5 @@
 # Project Title
-Your project's title
+WHITE WALL CLOTHING BRAND
 
 ## Student Information
 **Student number:** ST10482662 <br>
@@ -7,7 +7,31 @@ Your project's title
 
 ## Project Overview
 
-Pull this from your project proposal.
+Background: 
+
+White Wall Clothing is a fictional South African Streetwear brand established in 2024. The brand focuses on delivering affordable, stylish, and expressive fashion tailored specifically for university students. Inspired by campus culture, music, and urban youth trends, White Wall aims to bridge the gap between affordability and modern streetwear aesthetics. 
+
+ 
+
+Mission statement 
+
+To provide affordable, stylish clothing that enables students to express their individuality and confidence. 
+
+ 
+
+Vision statement 
+
+To become a leading student fashion brand across South Africa, recognized for quality, affordable, and cultural relevance. 
+
+ 
+
+Target Audience 
+
+University and college students (18-25 years) 
+
+Fashion conscious youth 
+
+Budget sensitive consumers 
 
 ## Website Goals and Objectives
 
