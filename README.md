@@ -19,7 +19,8 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-<img width="1042" height="491" alt="My sitemap drawio" src="https://github.com/user-attachments/assets/7a05b9bf-88e8-45e5-be17-978778e348a6" />
+<img width="841" height="501" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/a29df52a-ac02-4676-97a1-cb3113c90f9a" />
+
 
 ## References
 
